@@ -1,0 +1,10 @@
+{
+  "photos": [
+    { "title": "LeBron James", "src": "lebron.jpg" },
+    { "title": "Stephen Curry", "src": "steph.jpg" },
+    { "title": "Kyrie Irving", "src": "drew.jpg" },
+    { "title": "Michael Jordan", "src": "jordan.jpg" },
+    { "title": "Anthony Edwards", "src": "ant.jpg" },
+    { "title": "Luka Dončić", "src": "luca.jpg" }
+  ]
+}
